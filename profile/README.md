@@ -16,10 +16,10 @@
 
 -To do this, click on the home page of a repo, then click on the green drop down button labeled 'Code' and select 'Download ZIP'. This will download the repo as a ZIP file.
 
-## Process for editing a repo:
+## Editing a repo:
 -When working on a repo, clone it to your local machine.
 
--When making commits, push commits to dev branch.
+-When making commits, push commits to dev branch (rather than main).
 
 -Once commits are pushed to dev branch, initiate a pull request to merge commits from dev branch into main branch.
 
