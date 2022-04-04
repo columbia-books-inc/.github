@@ -60,6 +60,8 @@ Revert--A pull request to undo a previous pull request.
 Stage--Before a commit is added to a repo, it is 'staged' first to allow the committer to review the change.
 
 ## Resources:
--GitHub CLI guide: https://www.w3schools.com/git/default.asp?remote=github
+-GitHub CLI guides: 
+-- https://gist.github.com/ccannon94/982d69b23659d66c0ca6fb1384f94c97
+-- https://www.w3schools.com/git/default.asp?remote=github
 
 -GitHub glossary: https://docs.github.com/en/get-started/quickstart/github-glossary
