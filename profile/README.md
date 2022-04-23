@@ -66,4 +66,6 @@ Stage--Before a commit is added to a repo, it is 'staged' first to allow the com
 
 -- https://www.w3schools.com/git/default.asp?remote=github
 
--GitHub glossary: https://docs.github.com/en/get-started/quickstart/github-glossary
+-GitHub glossary: 
+
+-- https://docs.github.com/en/get-started/quickstart/github-glossary
