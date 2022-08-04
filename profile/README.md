@@ -41,8 +41,6 @@ Fetch--'git fetch' updates your local working branch from the remote repository 
 
 Fork--A personal copy of another user's repo that lives on your account. Common way to mess around with popular, open-sourced software.
 
-Hook--A function that allows you to tap in to a module to either provide different behavior or to react when something happens. There are several types of hooks. A 'webhook' provides a way for notifications to be delivered to an external server, for example.
-
 Merge--Applies changes from one branch into another. Commonly achieved with a git pull.
 
 Pull--Refers to fetching changes and merging them.
@@ -52,8 +50,6 @@ Pull Request--Proposed changes to a repo that can be accepted or rejected by a r
 Push--Send your committed changes to a remote repo on GitHub. 
 
 README--Markdown document used to explain a repo. Include as much information about the repo and how to use it as possible.
-
-Repository--A project folder.
 
 Revert--A pull request to undo a previous pull request.
 
