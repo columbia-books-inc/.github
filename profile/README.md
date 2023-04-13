@@ -16,4 +16,4 @@
   -  https://www.w3schools.com/git/default.asp?remote=github
 
 - GitHub commands glossary: 
--- https://docs.github.com/en/get-started/quickstart/github-glossary
+  - https://docs.github.com/en/get-started/quickstart/github-glossary
