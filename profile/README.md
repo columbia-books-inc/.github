@@ -11,9 +11,9 @@
 * Do not upload data sets or customer files to GitHub.
 
 ## Resources:
-* GitHub CLI guides: 
-** https://gist.github.com/ccannon94/982d69b23659d66c0ca6fb1384f94c97
-** https://www.w3schools.com/git/default.asp?remote=github
+_ GitHub CLI guides: 
+-- https://gist.github.com/ccannon94/982d69b23659d66c0ca6fb1384f94c97
+-- https://www.w3schools.com/git/default.asp?remote=github
 
-* GitHub commands glossary: 
-** https://docs.github.com/en/get-started/quickstart/github-glossary
+- GitHub commands glossary: 
+-- https://docs.github.com/en/get-started/quickstart/github-glossary
