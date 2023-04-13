@@ -11,7 +11,7 @@
 * Do not upload data sets or customer files to GitHub.
 
 ## Resources:
-_ GitHub CLI guides: 
+- GitHub CLI guides: 
 -- https://gist.github.com/ccannon94/982d69b23659d66c0ca6fb1384f94c97
 -- https://www.w3schools.com/git/default.asp?remote=github
 
